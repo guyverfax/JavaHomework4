@@ -4,6 +4,8 @@
 目錄結構如下：
 
 ```
+Homework4
+src
 ├─controller
 │  ├─member
 │  │   AddMemberErrorUI.java
