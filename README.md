@@ -3,4 +3,41 @@
 
 目錄結構如下：
 
-
+├─controller
+│  ├─member
+│  │      AddMemberErrorUI.java
+│  │      AddMemberSuccessUI.java
+│  │      AddMemberUI.java
+│  │      LoginErrorUI.java
+│  │      LoginSuccessUI.java
+│  │      LoginUI.java
+│  │      
+│  └─porder
+│          AddPorderUI.java
+│          PorderMainUI.java
+│          PorderManagerUI.java
+│          
+├─dao
+│  │  MemberDao.java
+│  │  PorderDao.java
+│  │  
+│  └─impl
+│          MemberDaoImpl.java
+│          PorderDaoImpl.java
+│          
+├─model
+│      Member.java
+│      Porder.java
+│      
+├─service
+│  │  MemberService.java
+│  │  PorderService.java
+│  │  
+│  └─impl
+│          MemberServiceImpl.java
+│          PorderServiceImpl.java
+│          
+└─util
+        DbConnection.java
+        PorderTableModel.java
+        Tool.java
