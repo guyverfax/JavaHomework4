@@ -83,13 +83,18 @@ Tool.java 一個通用工具類別輔助函數。
 ## 使用手冊
 ### 1.匯入 MySQL Schema 和 Table
 #### 請下載 fruit_member.sql 和 fruit_porder.sql，並按照以下步驟將其匯入 MySQL：
-##### 使用 MySQL Workbench 匯入資料：
 打開 MySQL Workbench。
+
 連接到 MySQL 伺服器。
+
 在左側資料庫樹狀中，選擇要匯入資料的資料庫。
+
 在 MySQL Workbench 上方的「管理」標籤下，選擇 資料匯入。
+
 選擇要匯入的檔案（例如 fruit_member.sql 或 fruit_porder.sql）。
+
 點擊 開始匯入。
+
 匯入完成後，資料庫中的 Schema 和表格應已成功設置。
 
 ### 2.準備好 Java 11 可執行環境
