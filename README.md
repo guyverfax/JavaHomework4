@@ -82,7 +82,7 @@ Tool.java 一個通用工具類別輔助函數。
 
 ## 使用手冊
 ### 1.匯入 MySQL Schema 和 Table
-請下載 fruit_member.sql 和 fruit_porder.sql，並按照以下步驟將其匯入 MySQL：
+#### 請下載 fruit_member.sql 和 fruit_porder.sql，並按照以下步驟將其匯入 MySQL：
 使用 MySQL Workbench 匯入資料：
 打開 MySQL Workbench。
 連接到 MySQL 伺服器。
@@ -93,7 +93,7 @@ Tool.java 一個通用工具類別輔助函數。
 匯入完成後，資料庫中的 Schema 和表格應已成功設置。
 
 ### 2.準備好 Java 11 可執行環境
-以 Windows 10 為範例，請確保您已經安裝 Java 11。可以透過以下指令檢查 Java 環境是否已設置，在命令提示字元中執行：
+#### 以 Windows 10 為範例，請確保您已經安裝 Java 11。可以透過以下指令檢查 Java 環境是否已設置，在命令提示字元中執行：
 C:\>javac -version
 javac 11.0.20
 
@@ -104,5 +104,5 @@ Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.20+9-LTS-256, mixed mode)
 若能正確顯示版本資訊，代表您的 Java 環境已成功安裝。
 
 ### 3.下載執行檔
-請下載 Homework4.jar 檔案。下載完成後，您只需點擊該檔案即可開啟程式。
+#### 請下載 Homework4.jar 檔案。下載完成後，您只需點擊該檔案即可開啟程式。
 
