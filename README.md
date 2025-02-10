@@ -2,7 +2,7 @@
 # 專案說明
 這是一個購物系統，包含會員和訂單管理，並基於 MVC（Model-View-Controller） 設計模式來組織系統架構。系統包含 DAO（Data Access Object） 層和 Service 層，後端使用 MySQL 進行資料庫操作。
 
-## 目錄結構如下：
+## 目錄結構如下
 ```
 Homework4\src
 ├─controller
@@ -71,7 +71,7 @@ PorderTableModel.java Swing 的 TableModel，用來顯示訂單資料。
 Tool.java 一個通用工具類別輔助函數。
 ```
 
-## 主頁的檔案說明如下:
+## 主頁的檔案說明如下
 Homework4.jar 是執行檔
 fruit_member.sql 和 fruit_porder.sql 是 MySQL Schema 和 Table
 
