@@ -100,12 +100,17 @@ Tool.java 一個通用工具類別輔助函數。
 ### 2.準備好 Java 11 可執行環境
 ##### 以 Windows 10 為範例，請確保您已經安裝 Java 11。可以透過以下指令檢查 Java 環境是否已設置，在命令提示字元中執行：
 C:\>javac -version
+
 javac 11.0.20
 
 C:\>java -version
+
 java version "11.0.20" 2023-07-18 LTS
+
 Java(TM) SE Runtime Environment 18.9 (build 11.0.20+9-LTS-256)
+
 Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.20+9-LTS-256, mixed mode)
+
 若能正確顯示版本資訊，代表您的 Java 環境已成功安裝。
 
 ### 3.下載執行檔
