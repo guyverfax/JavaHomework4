@@ -35,7 +35,7 @@ Homework4\src
 └─util
     DbConnection.java
 
-## 檔案說明如下:
+檔案說明如下:
 src/controller/
 Controller 層 負責 UI 控制邏輯，通常與使用者互動，接收輸入並調用 Service 層來處理業務邏輯。
 
