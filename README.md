@@ -38,6 +38,7 @@ Homework4\src
 檔案說明如下:
 src/controller/
 Controller 層 負責 UI 控制邏輯，通常與使用者互動，接收輸入並調用 Service 層來處理業務邏輯。
+
 📁 controller/member/ 用於會員（Member）相關的 UI 控制。
 AddMemberUI.java 新增會員的 UI 介面。
 AddMemberSuccessUI.java 顯示會員成功新增的介面。
