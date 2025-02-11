@@ -147,5 +147,9 @@ Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.20+9-LTS-256, mixed mode)
 
 ![My Image](images/05.jpg)
 
+銷售圖表
+
+![My Image](images/06.jpg)
+
 ### 以上是專案說明
 
