@@ -35,9 +35,10 @@ Homework4\src
 └─util
     DbConnection.java
 
-檔案說明如下:
-src/controller/
+src 目錄檔案說明如下:
+
 Controller 層 負責 UI 控制邏輯，通常與使用者互動，接收輸入並調用 Service 層來處理業務邏輯。
+
 📁 controller/member/ 用於會員（Member）相關的 UI 控制。
 AddMemberUI.java 新增會員的 UI 介面。
 AddMemberSuccessUI.java 顯示會員成功新增的介面。
@@ -45,6 +46,7 @@ AddMemberErrorUI.java 顯示會員新增失敗的介面。
 LoginUI.java 會員登入的 UI 介面。
 LoginSuccessUI.java 顯示會員成功登入的介面。
 LoginErrorUI.java 顯示登入失敗的介面。
+
 📁 controller/porder/ 用於訂單（Porder，可能指 Purchase Order）相關的 UI 控制。
 AddPorderUI.java 用於新增訂單的 UI 介面。
 PorderMainUI.java 訂單管理的主介面。
@@ -125,7 +127,25 @@ Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.20+9-LTS-256, mixed mode)
 
 ### 4.使用畫面
 
+登入畫面
+
 ![My Image](images/01.jpg)
 
+訂單主頁 
 
+![My Image](images/02.jpg)
+
+新增訂單
+
+![My Image](images/03.jpg)
+
+訂單管理
+
+![My Image](images/04.jpg)
+
+編輯訂單
+
+![My Image](images/05.jpg)
+
+### 以上是專案說明
 
