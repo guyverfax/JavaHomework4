@@ -17,6 +17,7 @@ Homework4\src
 │       AddPorderUI.java
 │       PorderMainUI.java
 │       PorderManagerUI.java
+|       PorderSalesChartUI.java
 ├─dao
 │  ├─MemberDao.java
 │  ├─PorderDao.java
@@ -36,9 +37,6 @@ Homework4\src
     DbConnection.java
 
 src 目錄檔案說明如下:
-
-Controller 層 負責 UI 控制邏輯，通常與使用者互動，接收輸入並調用 Service 層來處理業務邏輯。
-
 📁 controller/member/ 用於會員（Member）相關的 UI 控制。
 AddMemberUI.java 新增會員的 UI 介面。
 AddMemberSuccessUI.java 顯示會員成功新增的介面。
@@ -51,6 +49,7 @@ LoginErrorUI.java 顯示登入失敗的介面。
 AddPorderUI.java 用於新增訂單的 UI 介面。
 PorderMainUI.java 訂單管理的主介面。
 PorderManagerUI.java 負責訂單的詳細管理介面。
+PorderSalesChartUI.java 輸出成銷售圖表。
 
 📂 src/dao/ DAO（Data Access Object）層，負責資料庫的存取操作。
 MemberDao.java 會員（Member）相關的資料庫操作接口（例如：CRUD）。
@@ -146,6 +145,10 @@ Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.20+9-LTS-256, mixed mode)
 編輯訂單
 
 ![My Image](images/05.jpg)
+
+銷售圖表
+
+![My Image](images/06.jpg)
 
 ### 以上是專案說明
 
