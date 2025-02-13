@@ -81,7 +81,7 @@ Tool.java 一個通用工具類別輔助函數。
 
 Homework4.jar 是執行檔
 
-fruit_member.sql 和 fruit_porder.sql 是 MySQL Schema 和 Table
+SQL目錄有 fruit_member.sql 和 fruit_porder.sql 是 MySQL Schema 和 Table
 
 ## 使用手冊
 ### 1.匯入 MySQL Schema 和 Table
